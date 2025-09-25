@@ -22,13 +22,13 @@
 
 ## 📸Preview of Project
 
-![Project view](https://github.com/bhavani-mhrl/foodie-project/blob/525dd7bd92398b1fe00bb07ef1b48e44e93d76c1/Screenshot%202025-09-24%20104222.png)
+![Project view](https://github.com/asiya2123/food_prjct/blob/7d7d074183de3f0eec52fa48124ce932918baae4/Screenshot%202025-09-25%20151749.png)
 
 ---
 
 ## 📸Preview-2
 
-![Project view](https://github.com/bhavani-mhrl/foodie-project/blob/3032d404e324e0b36bb813a19984396bb7421e1b/Screenshot%202025-09-24%20104240.png)
+![Project view](https://github.com/asiya2123/food_prjct/blob/7d7d074183de3f0eec52fa48124ce932918baae4/Screenshot%202025-09-25%20151846.png)
 
 ---
 
@@ -38,7 +38,7 @@
 - you can observe the 1st row
 
 
-![Project view](https://github.com/bhavani-mhrl/foodie-project/blob/732d1af1306a198010203d7543e1f48d4c53d278/Screenshot%202025-09-24%20104255.png)
+![Project view](https://github.com/asiya2123/food_prjct/blob/7d7d074183de3f0eec52fa48124ce932918baae4/Screenshot%202025-09-25%20151914.png)
 
 ---
 
