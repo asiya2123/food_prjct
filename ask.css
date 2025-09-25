@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head1{
+    background-color: white;
+    box-shadow: 2px 2px -5px 2px white;
+    line-height: 26px;
+    width: 100%;
+    margin: 1rem;
+    text-align: left;
+}
+.head2{
+    display: flex;
+    flex-direction: row;
+}
+#itm1{
+    height: 200px;
+    width: 100%;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to top,rgb(231, 218, 252),white);
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 1.5rem 1rem 1rem 0.5rem;
+    width: 100%;
+}
+.food-list{
+    margin: 1rem;
+}
+ol{
+    margin-left: 2rem;
+}
+.food-culture{
+    margin: 1rem;
+
+}
+table,th,td{
+    border: 1px double;
+}
+table{
+    width: 80%;
+    margin: 1rem;
+}
+.table-head{
+    color: black;
+    font: 1em sans-serif;
+    text-align: center;
+}
+tr:hover{
+    background-color: rgb(99, 99, 247);
+}
+.content{
+    font-family:cursive;
+    font-size: 16px;
+}
+.culture-dalhi{
+    font-family: 'Times New Roman';
+    font-size: 24px;
+}
+footer{
+    background-color: black;
+    color: white;
+    line-height: 30px;
+    border-radius: 10px;
+    top: left;
+    padding: 0.5rerm;
+}
